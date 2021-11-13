@@ -1,0 +1,17 @@
+.form-edit{
+    margin: auto;
+    text-align: center;
+}
+.container{
+    max-width:1024px;   
+}
+body{
+    background-color: bisque;
+}
+.form-row{
+    padding: 10px;
+}
+.edit-btn{
+    padding: 15px;
+}
+
